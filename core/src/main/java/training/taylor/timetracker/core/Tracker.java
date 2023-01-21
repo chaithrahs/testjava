@@ -1,5 +1,6 @@
 package training.taylor.timetracker.core;
 
+// Testing commit triggers new build in Jenkins
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import training.taylor.timetracker.core.dao.TimeEntry;
